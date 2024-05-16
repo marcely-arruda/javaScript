@@ -1,4 +1,2 @@
-const quadrado = (x) => {
-    return x * x;
-};
-console.log(quadrado(4)); //Saída : 16
+const quadrado = x => x * x;
+console.log(quadrado(7)); //Saída : 49
